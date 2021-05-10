@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open Javascript.html",
-            "file": "c:\\Users\\McKeever\\Projects\\Practice\\Javascript.html"
+            "name": "Open FuncCalc.html",
+            "file": "c:\\Users\\McKeever\\Projects\\Practice\\FuncCalc.html"
         }
     ]
 }
